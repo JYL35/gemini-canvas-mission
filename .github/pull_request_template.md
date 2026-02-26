@@ -11,7 +11,7 @@
 식비 세이버
 
 ### 배포 링크
-https://gemini.google.com/share/674456da736e
+https://gemini.google.com/share/e60a3ed156ff
 
 ### 이 앱을 만든 이유
 
